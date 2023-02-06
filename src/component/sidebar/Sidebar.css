@@ -1,0 +1,10 @@
+.sidebar {
+  flex: 1;
+  background-color: rgb(201, 238, 238);
+  height: calc(100vh - 60px);
+  position: sticky;
+  top: 60px;
+  left: 0px;
+  border-right: 1px solid rgb(44, 188, 188);
+  ;
+}
